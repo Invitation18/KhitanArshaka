@@ -1,0 +1,6 @@
+PETUNJUK PUBLIKASI UNDANGAN
+
+1. Ekstrak ZIP ini.
+2. Upload semua file dalam folder undangan-khitan-arshaka ke repository GitHub yang digunakan untuk GitHub Pages. Pastikan index.html, foto-arshaka.png, dan musik-islami-instrumental.mp3 berada di folder yang sama.
+3. Musik instrumental lembut akan diputar setelah tamu menekan tombol “Putar Musik Islami” (browser umumnya tidak mengizinkan autoplay sebelum ada interaksi).
+4. Jika repository sudah terbit, gunakan link publik yang sama; parameter tamu tetap bisa memakai ?kpd=Nama+Tamu.
